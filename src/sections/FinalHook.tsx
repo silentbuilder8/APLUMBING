@@ -51,7 +51,7 @@ const FinalHook: React.FC = () => {
               className="w-full text-xl"
               href={CALENDLY_URL}
             >
-              NON, JE VEUX LE DÉTRUIRE → ACCÉDER À L'OFFRE
+              NON, JE VEUX ACCÉDER À L'OFFRE → 
             </Button>
           </div>
         </div>
