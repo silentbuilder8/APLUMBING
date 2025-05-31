@@ -45,7 +45,7 @@ const Hero: React.FC = () => {
               
               <div className="flex flex-col sm:flex-row gap-4 pt-4">
                 <Button primary large className="sm:flex-1 text-center text-lg" href={CALENDLY_URL}>
-                  ACCÉDEZ À LA DÉMO - ROI Garanti en J+30
+                  ACCÉDEZ MAINTENANT À MON IA
                 </Button>
                 <Button primary={false} large className="sm:flex-1 text-center">
                   En savoir plus
