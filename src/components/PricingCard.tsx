@@ -1,7 +1,7 @@
 import React from 'react';
 import Button from './Button';
 
-const CALENDLY_URL = 'https://calendly.com/ai-discoveryy/unlock-the-power-of-ai-for-your-business';
+const CALENDLY_URL = 'https://www.paypal.com/ncp/payment/EFQ6F4YNYZ7RA';
 
 type PricingCardProps = {
   title: string;
