@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import Button from './Button';
 
-const CALENDLY_URL = 'https://www.paypal.com/ncp/payment/EHHR76BTJKTMS';
+const CALENDLY_URL = 'https://www.paypal.com/ncp/payment/EFQ6F4YNYZ7RA';
 
 const CheckoutForm: React.FC = () => {
   const [formData, setFormData] = useState({
